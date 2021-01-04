@@ -1,0 +1,91 @@
+D:\Python\python.exe E:/workplaces/HIN/run.py
+剩余种类数： 5
+剩余API数： 3281
+len(tag) 480
+Api_CSV() Time used: 0.3469441
+剩余种类数： 317
+剩余Mashup数： 6131
+len(Mashup_tag) 409
+Mashup_CSV() Time used: 0.29954950000000014
+fin_deal() Time used: 0.9819364999999998
+save_coprus() Time used: 68.8870935
+模型构建完成
+特征数： 4925
+save_model() Time used: 75.57209540000001
+
+
+剩余种类数： 10
+剩余API数： 5428
+len(tag) 480
+Api_CSV() Time used: 0.34089159999999197
+剩余种类数： 317
+剩余Mashup数： 6131
+len(Mashup_tag) 409
+Mashup_CSV() Time used: 0.30219619999999736
+fin_deal() Time used: 1.024359000000004
+save_coprus() Time used: 116.64626170000003
+模型构建完成
+特征数： 7296
+save_model() Time used: 130.3371019
+
+
+剩余种类数： 15
+剩余API数： 6971
+len(tag) 480
+Api_CSV() Time used: 0.3427823000000103
+剩余种类数： 317
+剩余Mashup数： 6131
+len(Mashup_tag) 409
+Mashup_CSV() Time used: 0.30561219999998457
+fin_deal() Time used: 1.0955445999999824
+save_coprus() Time used: 149.1895063
+模型构建完成
+特征数： 8531
+save_model() Time used: 168.47850029999995
+
+
+剩余种类数： 20
+剩余API数： 8332
+len(tag) 480
+Api_CSV() Time used: 0.34933990000001813
+剩余种类数： 317
+剩余Mashup数： 6131
+len(Mashup_tag) 409
+Mashup_CSV() Time used: 0.3096232999999984
+fin_deal() Time used: 1.137998400000015
+save_coprus() Time used: 178.69484799999998
+模型构建完成
+特征数： 9650
+save_model() Time used: 202.38831219999986
+
+
+剩余种类数： 25
+剩余API数： 9466
+len(tag) 480
+Api_CSV() Time used: 0.3383420999998634
+剩余种类数： 317
+剩余Mashup数： 6131
+len(Mashup_tag) 409
+Mashup_CSV() Time used: 0.3093375000000833
+fin_deal() Time used: 1.0857922000000144
+save_coprus() Time used: 204.20951390000005
+模型构建完成
+特征数： 10674
+save_model() Time used: 230.98128240000005
+
+
+剩余种类数： 30
+剩余API数： 10351
+len(tag) 480
+Api_CSV() Time used: 0.36499350000008235
+剩余种类数： 317
+剩余Mashup数： 6131
+len(Mashup_tag) 409
+Mashup_CSV() Time used: 0.3148748999999498
+fin_deal() Time used: 1.1523494999999002
+save_coprus() Time used: 221.6144273
+模型构建完成
+特征数： 11301
+save_model() Time used: 252.91512599999987
+
+Process finished with exit code 0

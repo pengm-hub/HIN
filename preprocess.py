@@ -138,5 +138,5 @@ def fin_deal(cnt_cata):
 if __name__ == "__main__":
     # Api_CSV()
     # Mashup_CSV()
-    Api_dic, Mashup_dic, Mashup_id, rel_apis, Api_cata, Api_id, Tag_id, Mashup_tag, Mashup_cata = fin_deal(20)
+    Api_dic, Mashup_dic, Mashup_id, rel_apis, Api_cata, Api_id, Tag_id, Mashup_tag, Mashup_cata = fin_deal(15)
     # save_coprus()

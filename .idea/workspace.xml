@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0f9cec50-c489-4367-8f56-1b71137d68c2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiConstruct.py" beforeDir="false" afterPath="$PROJECT_DIR$/ApiConstruct.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

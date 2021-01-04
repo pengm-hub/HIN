@@ -49,7 +49,7 @@ def save_data(Api_dic, Api_id, Api_cata, Mashup_dic, Mashup_id, rel_apis, Tag_id
     data['test_idx'] = np.array(X_test)
 
     # save
-    sio.savemat("matfile/{}/Apis_811_des.mat".format(cnt_cata), data)
+    sio.savemat("matfile/{}/Apis_811.mat".format(cnt_cata), data)
 
 
 def meta_amama(Api_dic, Api_id, Mashup_dic, Mashup_id, rel_apis):
